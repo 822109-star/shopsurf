@@ -5,4 +5,4 @@ I have made this frontend after [tweet](https://twitter.com/subhashchy/status/17
 This frontend is made using React.js and Tailwind
 
 ## Preview of the site
-https://shopsurf-ui.vercel.app/
+https://shop-surf.vercel.app/
